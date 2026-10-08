@@ -1,0 +1,12 @@
+# joblib is pinned to 1.4.2 for compatibility with PyCaret 3.3.2.
+pycaret==3.3.2
+joblib==1.4.2
+scikit-learn
+imbalanced-learn
+xgboost
+lightgbm
+shap
+pandas
+numpy
+matplotlib
+seaborn

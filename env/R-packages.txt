@@ -1,0 +1,3 @@
+# Preprocessing (scripts/01_preprocessing/preprocess_from_rds.R):
+#   tidyverse, phyloseq, microeco, file2meco   (parallel is base R)
+# phyloseq/microeco/file2meco are installed from Bioconductor/CRAN. R 4.6+.

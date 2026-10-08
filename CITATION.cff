@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript."
+title: "Rarefaction is safe for classification but reshapes ASV biomarkers, a multi-disease benchmark of machine learning on 16S rRNA microbiome data"
+authors:
+  - family-names: Leo
+    given-names: Dominic
+  - family-names: Hoque
+    given-names: M. Mozammel
+type: article
